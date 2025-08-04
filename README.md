@@ -2,7 +2,7 @@
 
 This repository documents my hands-on lab work while preparing for the Microsoft Certified: Azure Fundamentals (AZ-900) exam. These labs provide foundational experience across core Azure services and concepts.
 
-✅ **Learning Objectives**
+## ✅ Learning Objectives**
 🌐 Networking & Compute
 Explore and create Azure Virtual Networks
 
