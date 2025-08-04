@@ -71,6 +71,9 @@ Learn to use:
      - Password for Windows
    - Username: e.g., azureuser
    - SSH key: Generate or paste your public key (for Linux)
+     
+  <img width="1875" height="905" alt="Screenshot 2025-08-04 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fd7e54ff-1c0e-401c-a71a-a4355b63dce4" />
+
 
 5. ## Configure Inbound Ports
    - Select SSH (22) for Linux or RDP (3389) for Windows
@@ -81,7 +84,7 @@ Learn to use:
 
 7. ## Click “Review + create” > “Create”
 8. ## Deployment will take a few minutes, then click “Go to resource”
-<img width="1875" height="905" alt="Screenshot 2025-08-04 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fd7e54ff-1c0e-401c-a71a-a4355b63dce4" />
 
-  
+  <img width="1875" height="905" alt="Screenshot 2025-08-04 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fd7e54ff-1c0e-401c-a71a-a4355b63dce4" />
+
 </details>
