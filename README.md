@@ -47,3 +47,52 @@ Learn to use:
 - Total Cost of Ownership (TCO) Calculator
 - Cost Management tools
 - Understand Azure Subscriptions, SLAs, and support tiers
+
+<details>
+<summary><b>Creating Azure Virtual Machine Via Azure Portal</b></summary>
+
+## STEP-BY-STEP
+
+1. **Sign in to Azure Portal**
+   - https://portal.azure.com
+2. **Search for "Virtual Machines"**
+   - In the top search bar, type and select Virtual Machines.
+3. **Click “Create” > “Azure virtual machine”**
+4.  ##Configure Basics
+   - Subscription: Select your Azure subscription
+   - Resource Group: Create a new one or use existing
+   - Virtual machine name: e.g., myVM
+
+Region: Choose your preferred Azure region
+
+Availability options: Leave default unless high availability is needed
+
+Image: Choose OS (e.g., Ubuntu 20.04 LTS or Windows Server 2022)
+
+Size: Select based on your use (e.g., Standard_B1s for testing)
+
+Authentication type:
+
+SSH public key for Linux
+
+Password for Windows
+
+Username: e.g., azureuser
+
+SSH key: Generate or paste your public key (for Linux)
+
+Configure Inbound Ports
+
+Select SSH (22) for Linux or RDP (3389) for Windows
+
+Add HTTP (80) if running a web server
+
+Click Next through remaining tabs (Disks, Networking, etc.)
+You can leave most settings as default for basic deployment.
+
+Click “Review + create” > “Create”
+
+Deployment will take a few minutes, then click “Go to resource”
+
+  
+</details>
