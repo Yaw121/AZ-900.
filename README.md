@@ -58,41 +58,30 @@ Learn to use:
 2. **Search for "Virtual Machines"**
    - In the top search bar, type and select Virtual Machines.
 3. **Click “Create” > “Azure virtual machine”**
-4.  ##Configure Basics
+4.  ## Configure Basics
    - Subscription: Select your Azure subscription
    - Resource Group: Create a new one or use existing
    - Virtual machine name: e.g., myVM
+   - Region: Choose your preferred Azure region
+   - Availability options: Leave default unless high availability is needed
+   - Image: Choose OS (e.g., Ubuntu 20.04 LTS or Windows Server 2022)
+   - Size: Select based on your use (e.g., Standard_B1s for testing)
+   - Authentication type:
+     - SSH public key for Linux
+     - Password for Windows
+   - Username: e.g., azureuser
+   - SSH key: Generate or paste your public key (for Linux)
 
-Region: Choose your preferred Azure region
+5. ## Configure Inbound Ports
+   - Select SSH (22) for Linux or RDP (3389) for Windows
+   - Add HTTP (80) if running a web server
 
-Availability options: Leave default unless high availability is needed
+6. ## Click Next through remaining tabs (Disks, Networking, etc.)
+   - You can leave most settings as default for basic deployment.
 
-Image: Choose OS (e.g., Ubuntu 20.04 LTS or Windows Server 2022)
-
-Size: Select based on your use (e.g., Standard_B1s for testing)
-
-Authentication type:
-
-SSH public key for Linux
-
-Password for Windows
-
-Username: e.g., azureuser
-
-SSH key: Generate or paste your public key (for Linux)
-
-Configure Inbound Ports
-
-Select SSH (22) for Linux or RDP (3389) for Windows
-
-Add HTTP (80) if running a web server
-
-Click Next through remaining tabs (Disks, Networking, etc.)
-You can leave most settings as default for basic deployment.
-
-Click “Review + create” > “Create”
-
-Deployment will take a few minutes, then click “Go to resource”
+7. ## Click “Review + create” > “Create”
+8. ## Deployment will take a few minutes, then click “Go to resource”
+<img width="1875" height="905" alt="Screenshot 2025-08-04 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fd7e54ff-1c0e-401c-a71a-a4355b63dce4" />
 
   
 </details>
