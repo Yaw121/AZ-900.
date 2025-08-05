@@ -115,9 +115,10 @@ Learn to use:
 6. - Leave everything else on default
 7. - Click on next to Networking and fill the DNS name label
    - Click on Review+Create to create your container
-     
-     <img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/b3c2ae7c-c877-4df3-bf65-2687dc4c65de" />
-     <img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/bca18655-f15c-4f5f-9d1b-1900d3f21fb4" />
+     <img width="1560" height="907" alt="Screenshot 2025-08-05 at 12 13 57 PM" src="https://github.com/user-attachments/assets/79468785-dbe3-42d4-b032-7824325747ec" />
+
+    <img width="1089" height="930" alt="Screenshot 2025-08-05 at 12 14 30 PM" src="https://github.com/user-attachments/assets/886f5e5e-fb4b-4b5b-9b22-fc863c1933c9" />
+
 
 
 
