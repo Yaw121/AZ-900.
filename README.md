@@ -99,6 +99,33 @@ Learn to use:
 <img width="625" height="186" alt="Screenshot 2025-08-05 at 11 42 39 AM" src="https://github.com/user-attachments/assets/6a1d1fbe-feef-41ed-ae7f-37a0c30c8ccc" />
 
 <img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/3503f198-26e7-4d74-9e15-4f41bf826b9e" />
+   
+</details>
+
+
+<details>
+
+<summary><b>How To Create and Deploy Azure Container Services</b></summary>
+
+1. - Go to All Services on your Azure portal and select containers
+2. - Open Container Instances and Click on create or Add
+3. - Select the resource group you want to use
+4. - On Image source, select Docker Hub or other registry
+5. - Input the image name and make sure to end it with /helloworld.
+6. - Leave everything else on default
+7. - Click on next to Networking and fill the DNS name label
+   - Click on Review+Create to create your container
+     
+     <img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/b3c2ae7c-c877-4df3-bf65-2687dc4c65de" />
+     <img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/bca18655-f15c-4f5f-9d1b-1900d3f21fb4" />
+
+
+
+
+
+
+
+
 
 
 
