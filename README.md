@@ -118,18 +118,48 @@ Learn to use:
      <img width="1560" height="907" alt="Screenshot 2025-08-05 at 12 13 57 PM" src="https://github.com/user-attachments/assets/79468785-dbe3-42d4-b032-7824325747ec" />
 
     <img width="1089" height="930" alt="Screenshot 2025-08-05 at 12 14 30 PM" src="https://github.com/user-attachments/assets/886f5e5e-fb4b-4b5b-9b22-fc863c1933c9" />
+8. - Ones deployment is complete, go to resources and copy your FQDN.
+9. - Paste it in a new browser tab and hit enter to deploy your Container instance
+   - <img width="1943" height="663" alt="Screenshot 2025-08-05 at 2 27 17 PM" src="https://github.com/user-attachments/assets/e91b82dc-f55a-4f1d-9934-0451350687a8" />
+   
+</details>
 
 
 
-
-
-
-
-
-
+<details>
+   <summary><b></b></summary>
 
 
 
    
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
