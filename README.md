@@ -85,6 +85,23 @@ Learn to use:
 7. ## Click “Review + create” > “Create”
 8. ## Deployment will take a few minutes, then click “Go to resource”
 
-  <img width="1875" height="905" alt="Screenshot 2025-08-04 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fd7e54ff-1c0e-401c-a71a-a4355b63dce4" />
+  <img width="1311" height="919" alt="Screenshot 2025-08-04 at 4 18 12 PM" src="https://github.com/user-attachments/assets/98c5554b-6d64-47c7-80be-41cf6f5d519e" />
+
 
 </details>
+
+<details>
+<summary><b>How To Create A Web Server On Azure VM Via Powershell</b></summary>
+
+1. ## Run Powershell as Administrator on your VM
+2. ## Run the command "Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
+<img width="625" height="186" alt="Screenshot 2025-08-05 at 11 42 39 AM" src="https://github.com/user-attachments/assets/6a1d1fbe-feef-41ed-ae7f-37a0c30c8ccc" />
+
+<img width="487" height="127" alt="Screenshot 2025-08-05 at 11 44 33 AM" src="https://github.com/user-attachments/assets/3503f198-26e7-4d74-9e15-4f41bf826b9e" />
+
+
+
+   
+</details>
+
